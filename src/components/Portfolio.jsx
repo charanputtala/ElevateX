@@ -25,6 +25,30 @@ const featuredProjects = [
       { val: '5★', label: 'Client Rating' },
     ],
   },
+  {
+    tags: ['E-Commerce', 'Agriculture', 'Brand Identity'],
+    title: 'Lakhe Mushroom Farm',
+    desc: 'A clean, conversion-focused website for Lakhe Mushroom Farm featuring farm-fresh products, online and offline training programs, and a polished shopping experience that brings their mushroom business online.',
+    link: 'https://www.lakhemushroom.com/',
+    image: '/lakhe-mushroom.jpg',
+    results: [
+      { val: '100%', label: 'Custom Build' },
+      { val: '2', label: 'Training Modes' },
+      { val: '5★', label: 'Client Rating' },
+    ],
+  },
+  {
+    tags: ['Training', 'Agriculture', 'E-Commerce'],
+    title: 'GBS Mushrooms & Agrobusiness',
+    desc: 'A professional website for GBS Mushrooms featuring hands-on mushroom farming training, spawn and product sales, and agrobusiness solutions, built to establish them as India\'s go-to mushroom training centre.',
+    link: 'https://www.gbsmushrooms.com/',
+    image: '/gbs-mushrooms.jpg',
+    results: [
+      { val: '100%', label: 'Custom Build' },
+      { val: '3+', label: 'Mushroom Types' },
+      { val: '5★', label: 'Client Rating' },
+    ],
+  },
 ];
 
 const projects = [
